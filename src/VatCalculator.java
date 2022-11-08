@@ -22,7 +22,7 @@ public class VatCalculator {
 
         Scanner input = new Scanner (System.in);
 
-        // prompt the user to input integers for all variables respectively
+        // prompt the user to input double for all variables respectively
         System.out.print(" Enter amount : ");
         amount = input.nextDouble();
 
